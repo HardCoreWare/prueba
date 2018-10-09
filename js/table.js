@@ -25,6 +25,19 @@ class Table{
         this.table+='<div class="table-responsive">';
         this.table+='<table class="table table-bordered table-sm" id="dataTable" width="100%" cellspacing="0">';
 
+        this.table+='<thead>';
+        this.table+='<tr>';
+        this.table+='<th>';
+        this.table+='Formato Viejo';
+        this.table+='</th>';
+        this.table+='Formato Nuevo';
+        this.table+='<th>';
+        this.table+='</th>';
+        this.table+='</tr>';
+        this.table+='</thead>';
+
+        this.table+='<tbody>';
+
         for(var i=0; i<this.data.length; i++){
 
             this.table+='<tr>';
@@ -37,6 +50,8 @@ class Table{
             this.table+='</tr>';
 
         }
+
+        this.table+='</tbody>';
 
         this.table+='</table>';
         this.table+='</tbody>';
