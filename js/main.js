@@ -21,7 +21,7 @@ $(document).ready(function(){
 
                     console.log(response);
 
-                    var table = new Table("Facturas",response,"#fileTable");
+                    var table = new Table("Facturas",["Formato Antiguo","Formato Nuevo"],response,"#fileTable");
 
                 }
 

@@ -1,9 +1,9 @@
 class Table{
 
-    constructor(title,json,divId){
+    constructor(title,headers,json,divId){
 
         this.onInit(json);
-        this.write(title,divId);
+        this.write(title,headers,divId);
 
     }
 
@@ -13,7 +13,7 @@ class Table{
 
     }
 
-    write(title,divId){
+    write(title,headers,divId){
 
         this.table='';
 
@@ -28,10 +28,10 @@ class Table{
         this.table+='<thead>';
         this.table+='<tr>';
         this.table+='<th>';
-        this.table+='Formato Viejo';
+        this.table+=headers[0];
         this.table+='</th>';
-        this.table+='Formato Nuevo';
         this.table+='<th>';
+        this.table+=headers[1];
         this.table+='</th>';
         this.table+='</tr>';
         this.table+='</thead>';
