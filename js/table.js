@@ -17,7 +17,7 @@ class Table{
 
         this.table='';
 
-        this.table+='<div class="card mb-3">';
+        this.table+='<div class="card mb-2">';
         this.table+='<div class="card-header">';
         this.table+=title;
         this.table+='</div>';

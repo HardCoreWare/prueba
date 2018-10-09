@@ -1,18 +1,9 @@
-#fileForm{
+#fileForm,#fileTable{
 
-    width: 90%;
-
-    margin: 30px;
-
+    margin: 40px;
+    
 }
 
-#fileTable{
-
-    width: 90%;
-
-    margin: 30px;    
-
-}
 
 body{
 
