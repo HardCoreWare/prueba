@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" tipoDeComprobante="ingreso" metodoDePago="NO IDENTIFICADO" total="107.27" TipoCambio="1.0000" Moneda="MXN" LugarExpedicion="COACALCO, ESTADO DE MEXICO" NumCtaPago="NO IDENTIFICADO" fecha="2016-04-13T17:12:07" sello="GPf3JTLSAml+u6WlVsYG16WiqR2vtwR0Nzu1v5MuwOt1dXcdZnutxHPc/IOCDdjYvdzH038TXnpirE6MEuF8tCJa8HssT1FxteCF1rL5A+vF/OfgVOu3HZKJI/BLc9aNELILPqzuoDPFJpsogjAGPgwVKnitmHq5Mw4L8niDZqU=" folio="18259" version="3.2" serie="BF" formaDePago="PAGO EN UNA SOLA EXHIBICION" subTotal="92.47" condicionesDePago="CREDITO 30 DIAS" noCertificado="00001000000202142632" certificado="MIIEnDCCA4SgAwIBAgIUMDAwMDEwMDAwMDAyMDIxNDI2MzIwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTAxNTE5MDIwMFoXDTE2MTAxNTE5MDIwMFowgd0xKTAnBgNVBAMTIFNPTFVDSU9ORVMgU09CUkUgUlVFREFTIFNBIERFIENWMSkwJwYDVQQpEyBTT0xVQ0lPTkVTIFNPQlJFIFJVRURBUyBTQSBERSBDVjEpMCcGA1UEChMgU09MVUNJT05FUyBTT0JSRSBSVUVEQVMgU0EgREUgQ1YxJTAjBgNVBC0THFNTUjEyMDkyNFBTMyAvIExFU1I3OTA5MjdSU0ExHjAcBgNVBAUTFSAvIExFU1I3OTA5MjdIREZDUkQwNTETMBEGA1UECxMKQVVUT0NSRURJVDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAsqqX4ErCBU9dVfG8eAPGyKa8PX9njCzIJ3+UroINUvcSV3fdinqBYA4/b7zY3Gr68hGkFZf/VVFIAid/vn7cgCK8mAQBE5Jc+9Xka7hSqBselZTgY/1QPxX1JO23RQk8aXxVy2NilMWY77Y/TIBmU5Tu0wuvf2aXKu568fPCgvUCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAEMyZ3+EAiTzopuAJH7mY6jMiYls/YmwcLjryZfSR/9MSBfdGKXZZ2q5k8fMrKMKk66Wiu6MUlxKhjSPEU1HbltNRi5GfXtECYrbYHZEy91xBVXsrj3IOdgjlVWpe0W1LtcNXW7rz8/CZRRIeoRhaxgsO8i2CfOmtIlEG3sPxg16vQJRtxH1lzSs3Db1lFNJDn4iiPdQZRSt6x2l7BqSpkrpac8lMwyAIhope9sv9Mgpw3PY5//siG8Jz3sp3hT682TmvIhWhGtA9XLeDYNSz6b8TCANJz9KoBxgFm3vD90NKe/2itGG6k6FL5TO6ynkCiL8Ph/waVAwU7r7DlYlnBw=" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="SOLUCIONES SOBRE RUEDAS S. A. DE C. V." rfc="SSR120924PS3">
+    <cfdi:DomicilioFiscal calle="CARRETERA MEXICO TOLUCA" noExterior="5292" colonia="EL YAQUI" municipio="CUAJIMALPA DE MORELOS" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="05320" />
+    <cfdi:ExpedidoEn calle="VIA JOSE LOPEZ PORTILLO" noExterior="109" colonia="VILLA DE LAS FLORES" municipio="COACALCO" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="55710" />
+    <cfdi:RegimenFiscal Regimen="General de Ley P. M." />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="SCM NEZA" rfc="SCM9209077V7">
+    <cfdi:Domicilio calle="PATRICIO SANZ" noExterior="524" colonia="DEL VALLE" localidad="DISTRITO FEDERAL" municipio="BENITO JUAREZ" estado="DISTRITO FEDERAL" pais="MEXICO" codigoPostal="03100" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto descripcion="BALATAS DE FRENO BIZ100 BROSS115 C90" valorUnitario="73.50" importe="73.50" cantidad="1.00" unidad="PZ" noIdentificacion="PV1094" />
+    <cfdi:Concepto descripcion="BUJIA NGK MOD. C7HSA" valorUnitario="18.97" importe="18.97" cantidad="1.00" unidad="PZ" noIdentificacion="NGK-C7HSA-00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="14.8">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="14.80" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="00a98e47-e24a-451a-834e-5689361bf678" FechaTimbrado="2016-04-13T17:16:01" selloCFD="GPf3JTLSAml+u6WlVsYG16WiqR2vtwR0Nzu1v5MuwOt1dXcdZnutxHPc/IOCDdjYvdzH038TXnpirE6MEuF8tCJa8HssT1FxteCF1rL5A+vF/OfgVOu3HZKJI/BLc9aNELILPqzuoDPFJpsogjAGPgwVKnitmHq5Mw4L8niDZqU=" noCertificadoSAT="00001000000300171326" selloSAT="lBfXx+E+SurofFOSsq/wcn0WzqKMPA0aZNQ8FMuUN5C8l17gjs1r747nk8y8PWr0IR3SOCHQz2PXhWT9xfW1eOjAkDq7G6gPlrLjmEkLxMFadgLndf0EAE8rdIl6eSJPs74SVKE579+5kXlrFFMNScyppNJtVTEZaMrsmAqj02s=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

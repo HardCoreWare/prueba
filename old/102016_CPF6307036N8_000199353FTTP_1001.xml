@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="FTTP" folio="000199353" LugarExpedicion="Cuernavaca Morelos" NumCtaPago="No identificado" fecha="2016-10-22T03:41:04" sello="TpyU1DQ2vvO9AB08cEjyRd4e9QQFXFvo2NtLGY3ka/BUraZgoplmvSaGVXbF2MU8u+mFTkhbkX0+io772YyxEajEi3WJxO7gGwK2bt3XYHKSx8te0dzuoikoIO1J8R1rXXbTPuZ4eCzfGBWdjmv4tPLBQxgpOOIQ+AS1yksUehE=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000202261834" certificado="MIIE6jCCA9KgAwIBAgIUMDAwMDEwMDAwMDAyMDIyNjE4MzQwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTEwMTE3MjQ0NVoXDTE2MTEwMTE3MjQ0NVowggEqMUQwQgYDVQQDEztDQU1JTk9TIFkgUFVFTlRFUyBGRURFUkFMRVMgREUgSU5HUkVTT1MgWSBTRVJWSUNJT1MgQ09ORVhPUzFEMEIGA1UEKRM7Q0FNSU5PUyBZIFBVRU5URVMgRkVERVJBTEVTIERFIElOR1JFU09TIFkgU0VSVklDSU9TIENPTkVYT1MxRDBCBgNVBAoTO0NBTUlOT1MgWSBQVUVOVEVTIEZFREVSQUxFUyBERSBJTkdSRVNPUyBZIFNFUlZJQ0lPUyBDT05FWE9TMSUwIwYDVQQtExxDUEY2MzA3MDM2TjggLyBSRUZSNzEwNDIyRkQ1MR4wHAYDVQQFExUgLyBSRUZSNzEwNDIySERGWVJCMDgxDzANBgNVBAsTBk1hdHJpejCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAxBfD2r9axK06haRs+TIx9j8AE9uyBufDbM4lb+p4O6EfU0a6TBOQ49gI8J4CZBW3KgHKpuolrmJjkcjZfUp7d76R4t27GRUZO4wktcb56DpqTMpqCL+75xcmI0+foiMInKzcm8L5Eq/EPVAH8txMiJbP+R7fpP07NjqSRQdFPQECAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAAv+Idt7RADVsVyo80jVvv84C+qCetvpMHHsjmb4M6fMbHs4qAk/tlkM8sM6lXvkqdW75Y+iQBsA2wmZ6F4rW6bSnGA5v5DThuibZDpafLGmhXRARnagckTiEYb7zJSqTvakTqpTAMSzO1muoM2C4mgS5prA0P7fn46LsECSsi91kmBJ3uNYQ28fhRKg2D3lznSAKhQaM1JSMxxgK0TawN9OB6Rd2YX3nA8ymluPTnOxDdCS1wztnHwRO8/1jYdd+8RYjQLWznbFKs36ZIHh2GXZACbAlFkb0ELh8/HnRfzTvcU3APFOv89r88acbooErJDw1tEmZ3fPU+OXnlPBg6E=" subTotal="343.10" descuento="20.59" Moneda="MXN" total="374.12" metodoDePago="04" tipoDeComprobante="ingreso">
+  <cfdi:Emisor nombre="CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS" rfc="CPF6307036N8">
+    <cfdi:DomicilioFiscal calle="CALZADA DE LOS REYES" noExterior="24" colonia="TETELA DEL MONTE" municipio="CUERNAVACA" estado="MORELOS" pais="MEXICO" codigoPostal="62130" />
+    <cfdi:RegimenFiscal Regimen="PERSONAS MORALES CON FINES NO LUCRATIVOS" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="SCM9209077V7" nombre="SERVICIO CONTINENTAL DE MENSAJERIA, S.A. DE C.V.">
+    <cfdi:Domicilio calle="PATRICIO SANZ" noExterior="524" colonia="COL. DEL VALLE" municipio="DEL. BENITO JUÁREZ" estado="DISTRITO FEDERAL" pais="MÉXICO" codigoPostal="3100" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="3.00" unidad="TELEPEAJE" descripcion="29-PTE CARACOL CIUDAD ALEMAN - TUXTEPEC" valorUnitario="17.2414" importe="51.72" />
+    <cfdi:Concepto cantidad="1.00" unidad="TELEPEAJE" descripcion="14-PTE PANUCO ALAZAN - CANOAS" valorUnitario="15.5172" importe="15.52" />
+    <cfdi:Concepto cantidad="4.00" unidad="TELEPEAJE" descripcion="33-PTE NAUTLA POZA RICA - VERACRUZ" valorUnitario="17.2414" importe="68.97" />
+    <cfdi:Concepto cantidad="6.00" unidad="TELEPEAJE" descripcion="22-PTE ALVARADO PASO DEL TORO - ACAYUCAN" valorUnitario="17.2414" importe="103.45" />
+    <cfdi:Concepto cantidad="6.00" unidad="TELEPEAJE" descripcion="63-PTE TLACOTALPAN BUENAVISTA - TLACOTALPAN" valorUnitario="17.2414" importe="103.45" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="51.60">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="51.60" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="TpyU1DQ2vvO9AB08cEjyRd4e9QQFXFvo2NtLGY3ka/BUraZgoplmvSaGVXbF2MU8u+mFTkhbkX0+io772YyxEajEi3WJxO7gGwK2bt3XYHKSx8te0dzuoikoIO1J8R1rXXbTPuZ4eCzfGBWdjmv4tPLBQxgpOOIQ+AS1yksUehE=" FechaTimbrado="2016-10-22T03:41:08" UUID="00c22fc1-2c6e-4aa7-b034-b007967c0faf" version="1.0" noCertificadoSAT="00001000000202809550" selloSAT="fzP8C4KDx+v5j/Te6LSZRaqVBPpTEF/bWtXzIOy/091ZhbJ/AunLQbGUS38tNqUrZZM9Wsybegvkg52iE1F3YRNaPHmogZ26iXv+3FbIIge0BSJAc/ia5EuKsO2a2S4V9oH3jEmEfJd42YTLQExZWLAGmNlaawuNzAI6eZHAWSA=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+
